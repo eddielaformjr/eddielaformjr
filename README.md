@@ -8,8 +8,8 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/eddielaformjr/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Creating a Virtual Machine on Azure](https://github.com/eddielaformjr/virtual-machine)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/eddielaformjr/configure-ad)
   - [Install and Configure the File Server Role](https://github.com/eddielaformjr/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/eddielaformjr/configure-ad)
 
 <h2>🤳Connect with me:</h2>
 
