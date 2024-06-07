@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Creating a Virtual Machine on Azure](https://github.com/eddielaformjr/virtual-machine)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/eddielaformjr/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/eddielaformjr/azure-network-protocols)
+  - [Install and Configure the File Server Role](https://github.com/eddielaformjr/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
