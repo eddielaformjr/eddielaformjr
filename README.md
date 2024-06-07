@@ -14,9 +14,9 @@
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="eddielaformjr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
-[<img align="left" alt="eddielaformjr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="eddie-laform-jr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [facebook]: https://www.facebook.com/eddielaformjr/
-[instagram]: https://www.instagram.com/Josh
+[instagram]: https://www.linkedin.com/in/eddie-laform-jr/
 [linkedin]: https://linkedin.com/in/eddie-laform-jr/
