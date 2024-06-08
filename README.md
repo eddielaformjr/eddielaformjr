@@ -18,5 +18,4 @@
 
 
 [facebook]: https://www.facebook.com/eddielaformjr/
-[linkedin]: (https://www.linkedin.com/in/eddie-laform-jr/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/eddie-laform-jr/)
+[linkedin]: https://www.linkedin.com/in/eddie-laform-jr/
