@@ -1,5 +1,4 @@
-<h1>Hi, I'm Eddie, an <a href="https://linkedin.com/in/eddie-laform-jr">IT Professional</a></h1>
-
+<h1>Hi, I'm Eddie! <br/><a href="https://github.com/eddielaformjr">IT Professional</a>, <a href="https://www.linkedin.com/in/eddie-laform-jr/">Digital Marketer</a>
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
